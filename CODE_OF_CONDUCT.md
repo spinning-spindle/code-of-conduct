@@ -49,7 +49,6 @@ To contribute to our project:
 * Examine the repositories (labs).
 * Identify possible features and/or bugs in the code base.
 * Open a new issue in the Issue tracker (if a related issue doesn't exist already).
-* Fork the repo.
 * Create a new feature branch based off the `master` branch.
 * Submit a pull request, referencing any issues it addresses.
 
