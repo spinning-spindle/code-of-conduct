@@ -45,7 +45,17 @@ threatening, offensive, or harmful.
 
 ## Contributing to our Projects
 
-To contribute to our project, submit a PR. We'll review, discuss, and merge changes as needed. Thank you!
+To contribute to our project:
+* Examine the repositories (labs).
+* Identify possible features and/or bugs in the code base.
+* Open a new issue in the Issue tracker (if a related issue doesn't exist already).
+* Fork the repo.
+* Create a new feature branch based off the `master` branch.
+* Submit a pull request, referencing any issues it addresses.
+
+Please try to keep your pull request focused in scope and avoid including unrelated commits.
+
+After you have submitted your pull request, we'll try to get back to you as soon as possible. We may suggest some changes or improvements.
 
 ## Scope
 
